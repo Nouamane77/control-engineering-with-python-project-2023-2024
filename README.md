@@ -14,7 +14,7 @@ Your team: group number 3
   
   - Student 3: (ASRY Mouncef `ASRY-Mouncef`)
 
-  - Student 4: (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: (ED-DYB Yassmine `Yassmine2020`)
 
 ## Getting Started
 
