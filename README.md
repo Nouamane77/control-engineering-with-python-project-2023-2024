@@ -12,7 +12,7 @@ Your team: group number 3
 
   - Student 2: ❔ (ALAOUI Doae `Doae16`)
   
-  - Student 3: ❔ (ASRY Mouncef + `ASRY-Mouncef`)
+  - Student 3: ❔ (ASRY Mouncef `ASRY-Mouncef`)
 
   - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
