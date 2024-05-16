@@ -14,7 +14,7 @@ Your team: group number 3
   
   - Student 3: (ASRY Mouncef `ASRY-Mouncef`)
 
-  - Student 4: (ED-DYB Yassmine `Yassmine2020`)
+  - Student 4: (ED-DYB Yassmine `@Yassmine2020`)
 
 ## Getting Started
 
